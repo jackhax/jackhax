@@ -6,7 +6,7 @@
 
 ## <div align="center" style="text-align: center;"> ![Profile Views](https://komarev.com/ghpvc/?username=adnanjakati&color=blue)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanjakati/)</div>
 
-A cybersecurity enthusiast pursuing an MS in Cybersecurity at New York University. With a solid foundation in Network Security, Algorithms, and Information Security, I've contributed significantly as an Information Security Engineer at Sony India Software Centre. My expertise extends to AI, Python, and MongoDB.
+A cybersecurity enthusiast pursuing an MS in Cybersecurity at New York University. With a solid foundation in Network Security, Algorithms, and Information Security, I've contributed significantly as an Information Security Engineer at Sony India Software Centre. My expertise extends to AI, Python, and flutter.
 
 - Pursuing a Master's degree in Cybersecurity at [New York University](https://www.nyu.edu/).
 - Worked as an Information Security Engineer at [Sony India Software Centre](https://www.sonyindiasoftware.co.in/).
