@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/41838363/300681262-0816fc99-c43e-4ef0-a075-333412b19f5e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1ODk4NDcsIm5iZiI6MTcwNjU4OTU0NywicGF0aCI6Ii80MTgzODM2My8zMDA2ODEyNjItMDgxNmZjOTktYzQzZS00ZWYwLWEwNzUtMzMzNDEyYjE5ZjVlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMwVDA0MzkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmU4NTEyMTE0MDc1NDFhZDA3ODg2MzI2YjI2ODlkNzM2ZGJhNzFiODI1ZTk1MGY2M2Q4ZjUzMDAyOWVlNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.26-57ndvwhGZ5zrZuYm8iVIvrIRvstg-IX7VoErHMjY" alt="Profile Image" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/jackhax/jackhax/main/IMG_0071.jpeg" width="150" height="150">
 </div>
 
 # <div align="center"> 👋 Mohammed Adnan Jakati</div>
