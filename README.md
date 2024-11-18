@@ -23,5 +23,3 @@ A cybersecurity enthusiast pursuing an MS in Cybersecurity at New York Universit
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackhax&layout=compact&theme=radical)
