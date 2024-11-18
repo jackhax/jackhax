@@ -24,6 +24,4 @@ A cybersecurity enthusiast pursuing an MS in Cybersecurity at New York Universit
 
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackhax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackhax&layout=compact&theme=radical)
