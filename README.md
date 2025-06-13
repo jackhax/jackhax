@@ -78,8 +78,6 @@ Courses: Application Security, Offensive Security, Applied Cryptography, Softwar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanjakati)  
 📧 Email: [adnanjackady@gmail.com](mailto:adnanjackady@gmail.com)  
-🔗 [My Recon Agent](https://github.com/jackhax/htb_recon_agent) • [My Notes](https://www.notion.so/High-level-Notes-15f8be574b358005a808fbccddd08b68?pvs=4)
-
 ---
 
 _Thanks for stopping by — feel free to reach out if you want to build, break, or brainstorm something cool 🔐💡_
