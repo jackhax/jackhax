@@ -77,7 +77,7 @@ Courses: Application Security, Offensive Security, Applied Cryptography, Softwar
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanjakati)  
-📧 Email: [adnanjackady@gmail.com](mailto:adnanjackady@gmail.com)  
+📧 Email: [adnanjackady@proton.me](mailto:adnanjackady@proton.me)  
 ---
 
 _Thanks for stopping by — feel free to reach out if you want to build, break, or brainstorm something cool 🔐💡_
